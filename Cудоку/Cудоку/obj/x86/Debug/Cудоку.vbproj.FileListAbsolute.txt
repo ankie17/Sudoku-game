@@ -1,0 +1,11 @@
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\bin\Debug\Cудоку.exe
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\bin\Debug\Cудоку.pdb
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\bin\Debug\Cудоку.xml
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\Cудоку.Form1.resources
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\Cудоку.Resources.resources
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\Cудоку.exe
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\Cудоку.xml
+C:\Documents and Settings\as\мои документы\visual studio 2010\Projects\Cудоку\Cудоку\obj\x86\Debug\Cудоку.pdb
